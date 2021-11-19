@@ -1,0 +1,172 @@
+{
+  "M_inicio_sesion": {
+    "inicio_error": "Nome de usuário ou senha incorretos",
+    "contrasena_olvido": "Esqueceu sua senha? Contate-nos http://www.mowin-tech.com/",
+    "usuario_error": " O usuário deve ser do tipo e-mail",
+    "contrasena_error": "A senha deve ter entre 4 e 12 caracteres. Não deve conter letras maiúsculas",
+    "todos_campos": "Todos os campos devem ser preenchidos",
+    "button_ingresar": "Entrar",
+    "footer_contactenos": "Entre em contato conosco"
+
+  },
+
+
+
+  "M_pagina_principal": {
+    "gestion_dispositivos": " Os dispositivos devem ser adicionados para entrar na visualização",
+    "logica_operacion": "Os dispositivos devem ser configurados para entrar na visualização.",
+    "transferencia": "Você deve ter um projeto selecionado para entrar na visualização",
+    "label_principal": "Página inicial",
+    "label_descargas": "Baixar",
+    "label_descargas_1": "Manual de usuário",
+    "label_descargas_2": "Guia de instalação do plugin",
+    "label_descargas_3": "Plugin",
+    "label_proyectos": "Projetos",
+    "label_proyectos_1": "Gestão de projetos",
+    "label_proyectos_2": "configuração de rede",
+    "label_proyectos_3": "Gerenciamento de dispositivo",
+    "label_proyectos_4": "lógica de operação",
+    "label_transferencia": "Transferir"
+  },
+
+
+
+  "M_gestion_proyectos": {
+    "nombre_repetido": " Nome já atribuído ",
+    "crear_proyecto_exito": "O projeto foi armazenado com sucesso",
+    "crear_proyecto_error": " Erro ao criar projeto ",
+    "duplicar_proyecto_exito": "Projeto duplicado com sucesso",
+    "exportar_proyecto_exito": "deletar projeto com sucesso ",
+    "eliminar_proyecto_exito": "Projeto exportado com sucesso",
+    "eliminar_proyecto_error": " O projeto não pôde ser excluído.",
+    "importar_proyecto_exito": "Projeto importado com sucesso",
+    "importar_proyecto_error": "O projeto não pôde ser importado ",
+    "cambiar_nombre_exito": "Renomeado com sucesso",
+
+
+    "label_gestion_proyectos": "Gestão de projetos",
+    "label_nombre_proyecto": "Nome do projeto",
+    "label_protocolo_comunicacion": "Protocolo de comunicação",
+    "label_tabla_1": "Nome",
+    "label_tabla_2": "Número de dispositivos",
+    "label_tabla_3": "Protocolo de comunicação",
+    "label_tabla_4": "Ações",
+    "label_eliminar_proyecto": "Você quer deletar o projeto?",
+
+    "buttton_crear_proyecto": "Criar projeto",
+    "button_importar_proyecto": "Projeto de importação"
+
+
+  },
+
+
+
+  "M_configuracion_red": {
+    "cambiar_nombre_dispositivo": " O nome foi alterado com sucesso ",
+    "eliminar_dispositivo_exito": "Removido com sucesso",
+
+    "label_configuracion_red": "configuração de rede",
+    "label_nombre_dispositivo": "Digite o nome do dispositivo",
+    "button_agregar_dispositivos": "Adicionar dispositivos",
+    "button_gestion_dispositivos": "Gerenciamento de dispositivo",
+    "label_tabla_1": "Nome do dispositivo",
+    "label_tabla_2": "tipo de dispositivo",
+    "label_tabla_3": "Ações",
+    "label_tabla_4": "Quantidade"
+
+  },
+
+
+  "M_gestion_dispositivos": {
+    "configurar_dispositivo_exito": " Os parâmetros do dispositivo foram salvos com sucesso ",
+
+    "label_gestion_dispositivos": "Gestión dispositivos",
+    "label_entrada": "Entrada",
+    "label_salida": "Salida",
+    "label_button": "Boton",
+    "label_piloto": "Piloto",
+
+
+    "label_habilitar": "Habilitar",
+    "label_nombre": "Nombre",
+    "label_logica_activa": "Logica Activa",
+    "label_entrada_1": "Pull Down",
+    "label_pull_up": "Pull Up",
+    "label_ganacia": "Ganancia",
+    "label_salida_1": "Arranque Suave",
+
+
+
+
+    "label_button_1": "Número do botão",
+    "label_button_2": "Nome do botão",
+    "label_button_3": "En S15",
+    "label_button_5": "En long Pulse",
+    "label_button_6": "En Push Button",
+    "label_button_7": "En Bigger On Stage",
+    "label_button_8": "Partida",
+    "label_button_9": "Ícone de botão"
+
+  },
+
+
+  "M_logica_operacion": {
+    "label_logica_operacion": " Logica de Operación",
+    "label_entradas": "Entradas",
+    "label_salidas": " Salidas",
+    "bloque_matematico": "Bloque Matematico",
+    "bloque_digital": "Bloques digitales",
+    "bloque_analogico": "Bloques analogicos",
+    "bloque_opciones": "Opciones",
+
+
+    "configurar_constantes": "Se deben configurar las constantes, para configurarlas debe dar doble click sobre la constante",
+    "valor_constante": "Valor de la constante",
+    "configurar_red_error": "No se ha configurado totalmente la red",
+    "logica_exito": "La logica de operacion fue guardada con èxito"
+  },
+
+
+
+
+  "M_transferencia": {
+    "plugin_error": " É necessário ativar o Plugin",
+    "dispositivo_error": "O dispositivo não é um dispositivo Mowin",
+    "transferencia_exito": " A transferência foi bem-sucedida",
+    "transferencia_error": " A transferência falhou ",
+
+
+    "label_conecta_dispositivo": " Conecta con el dispositivo",
+    "label_activa_plugin": " la transferencia no pudo realizarse ",
+    "label_activa_plugin1": "Activa el plugin, puedes descargarlo en la pagina principal",
+    "label_bluetooh": " la transferencia no pudo realizarse ",
+    "label_bluetooh1": " recuerda tener emprajeado el dispositivo Mowin con el equipo ",
+    "label_puerto_com": " la transferencia no pudo realizarse ",
+    "label_puerto_com1": " Conecta el puerto COM del dispositivo. (El puerto se puede visualizar en administrador de dispositivos)",
+    "button_dispositivos": "Buscar dispositivos",
+
+
+    "label_estableciendo_conexion": " Estableciendo conexión ",
+    "label_transferencia": "Transferencia de archivos",
+    "label_conectado_con": "Conectado con: ",
+
+
+
+    "label_nombre_proyecto": "Nombre del proyecto",
+    "cantidad_dispositivos": "Cantidad de dispositivos",
+    "protocolo_comunicacion": "Protocolo de comunicación"
+
+
+  },
+
+
+  "General": {
+    "button_guardar": "Guardar",
+    "button_aceptar": "Aceptar",
+    "button_configurar": "Configurar"
+  }
+
+
+
+
+}

@@ -1,0 +1,170 @@
+{
+  "M_inicio_sesion": {
+    "inicio_error": "Usuario o contraseña son incorrectas",
+    "contrasena_olvido": "¿Olvido su contraseña? Comunícate con nosotros http://www.mowin-tech.com/",
+    "usuario_error": "El usuario debe ser de tipo email",
+    "contrasena_error": "La contraseña debe tener entre 4 y 12 caracteres. No debe contener Mayúsculas",
+    "todos_campos": "Se deben diligenciar todos los campos",
+    "button_ingresar": "Ingresar",
+    "footer_contactenos": "contactenos"
+
+  },
+
+
+
+  "M_pagina_principal": {
+    "gestion_dispositivos": " Se deben agregar dispositivos para entrar a la vista.",
+    "logica_operacion": "Se deben configurar los dispositivos para entrar a la vista",
+    "transferencia": "Se debe tener un proyecto seleccionado para entrar a la vista ",
+
+    "label_principal": "Pagina de inicio",
+    "label_descargas": "Descargas",
+    "label_descargas_1": "Manual de Usuario",
+    "label_descargas_2": "Guía de instalación del Plugin",
+    "label_descargas_3": "Plugin",
+    "label_proyectos": "Proyectos",
+    "label_proyectos_1": "Gestión de proyectos",
+    "label_proyectos_2": "configuración de red",
+    "label_proyectos_3": "Gestión de dispositivos",
+    "label_proyectos_4": "lógica de operación",
+    "label_transferencia": "Transferencia"
+
+  },
+
+
+
+
+  "M_gestion_proyectos": {
+    "nombre_repetido": " El nombre ya fue asignando",
+    "crear_proyecto_exito": "Se ha almacenado el proyecto correctamente.",
+    "crear_proyecto_error": "Error al crear el proyecto ",
+    "duplicar_proyecto_exito": "Proyecto duplicado correctamente",
+    "exportar_proyecto_exito": "Proyecto exportado correctamente ",
+    "eliminar_proyecto_exito": "Proyecto eliminado correctamente ",
+    "eliminar_proyecto_error": " Proyecto no pudo eliminarse ",
+    "importar_proyecto_exito": "Proyecto importado correctamente",
+    "importar_proyecto_error": "Proyecto no pudo importarse ",
+    "cambiar_nombre_exito": "Se ha cambiado el nombre correctamente",
+
+    "label_gestion_proyectos": "Nombre del proyecto",
+    "label_nombre_proyecto": "Nombre del proyecto",
+    "label_protocolo_comunicacion": "Protocolo de comunicacion",
+    "label_tabla_1": "Nombre",
+    "label_tabla_2": "Numero de dispositivos",
+    "label_tabla_3": "Protocolo de comunicación",
+    "label_tabla_4": "Acciones",
+    "label_eliminar_proyecto": "¿Desea eliminar el proyecto?",
+
+    "buttton_crear_proyecto": "Crear proyecto",
+    "button_importar_proyecto": "Importar proyecto"
+
+  },
+
+
+
+
+  "M_configuracion_red": {
+
+    "cambiar_nombre_dispositivo": " Se ha cambiado el nombre del dispositivo con éxito",
+    "eliminar_dispositivo_exito": "Dispositivo eliminado correctamente",
+
+    "label_configuracion_red": "Configuración de Red",
+    "label_nombre_dispositivo": "Ingrese el nombre del dispositivo",
+    "button_agregar_dispositivos": "Agregar dispositivos",
+    "button_gestion_dispositivos": "Gestión dispositivos",
+    "label_tabla_1": "Nombre dispositivo",
+    "label_tabla_2": "tipo de dispositivo",
+    "label_tabla_3": "acciones",
+    "label_tabla_4": "Cantidad"
+
+  },
+
+
+
+
+  "M_gestion_dispositivos": {
+    "configurar_dispositivo_exito": " Los parámetros del dispositivo fueron guardados con éxito ",
+
+    "label_gestion_dispositivos": "Gestión dispositivos",
+    "label_entrada": "Entrada",
+    "label_salida": "Salida",
+    "label_button": "Botón",
+    "label_piloto": "Piloto",
+
+
+    "label_habilitar": "Habilitar",
+    "label_nombre": "Nombre",
+    "label_logica_activa": "Logica Activa",
+    "label_entrada_1": "Pull Down",
+    "label_pull_up": "Pull Up",
+    "label_ganacia": "Ganancia",
+    "label_salida_1": "Arranque Suave",
+
+
+    "label_button_1": "Número del botón",
+    "label_button_2": "Nombre del boton",
+    "label_button_3": "En S15",
+    "label_button_5": "En long Pulse",
+    "label_button_6": "En Push Button",
+    "label_button_7": "En Bigger On Stage",
+    "label_button_8": "Salida",
+    "label_button_9": "Icono botón"
+
+  },
+
+
+  "M_logica_operacion": {
+    "label_logica_operacion": " Logica de Operación",
+    "label_entradas": "Entradas",
+    "label_salidas": " Salidas",
+    "bloque_matematico": "Bloque Matematico",
+    "bloque_digital": "Bloques digitales",
+    "bloque_analogico": "Bloques analogicos",
+    "bloque_opciones": "Opciones",
+
+
+    "configurar_constantes": "Se deben configurar las constantes, para configurarlas debe dar doble click sobre la constante",
+    "valor_constante": "Valor de la constante",
+    "configurar_red_error": "No se ha configurado totalmente la red",
+    "logica_exito": "La logica de operacion fue guardada con èxito"
+  },
+
+  "M_transferencia": {
+    "plugin_error": " Es necesario activar el Plugin ",
+    "dispositivo_error": "El dispositivo no es un dispositivo Mowin",
+    "transferencia_exito": " la transferencia se realizó con éxito ",
+    "transferencia_error": " la transferencia no pudo realizarse ",
+
+
+    "label_conecta_dispositivo": " Conecta con el dispositivo",
+    "label_activa_plugin": " la transferencia no pudo realizarse ",
+    "label_activa_plugin1": "Activa el plugin, puedes descargarlo en la pagina principal",
+    "label_bluetooh": " la transferencia no pudo realizarse ",
+    "label_bluetooh1": " recuerda tener emprajeado el dispositivo Mowin con el equipo ",
+    "label_puerto_com": " la transferencia no pudo realizarse ",
+    "label_puerto_com1": " Conecta el puerto COM del dispositivo. (El puerto se puede visualizar en administrador de dispositivos)",
+    "button_dispositivos": "Buscar dispositivos",
+
+
+    "label_estableciendo_conexion": " Estableciendo conexión ",
+    "label_transferencia": "Transferencia de archivos",
+    "label_conectado_con": "Conectado con: ",
+
+
+
+    "label_nombre_proyecto": "Nombre del proyecto",
+    "cantidad_dispositivos": "Cantidad de dispositivos",
+    "protocolo_comunicacion": "Protocolo de comunicación"
+
+  },
+
+
+
+  "General": {
+    "button_guardar": "Guardar",
+    "button_aceptar": "Aceptar",
+    "button_configurar": "Configurar"
+  }
+
+
+}

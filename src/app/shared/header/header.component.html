@@ -1,0 +1,23 @@
+<p>header works!</p>
+
+<p>
+    Este es el componente del header
+</p>
+
+<h1>Este esta dentro del header</h1>
+
+<!-- The second value will be selected initially -->
+<select #langSelect (change)="camnbiarLang(langSelect.value)">
+   <option *ngFor="let lang of langs" [value]="lang">{{lang}}</option>
+ </select>
+
+
+
+<br>
+
+
+<h3>{{'hola'|translate}}</h3>
+
+
+<h3>{{'M_gestion_proyectos.crear_proyecto_error'|translate}}</h3>
+<h3>{{'hola'|translate}}</h3>
